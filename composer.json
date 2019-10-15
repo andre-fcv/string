@@ -2,7 +2,7 @@
     "name": "andre-fcv/string",
     "minimum-stability": "dev",
     "type": "library",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "require": {},
     "autoload": {
         "psr-4": {
