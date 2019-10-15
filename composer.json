@@ -1,5 +1,6 @@
 {
     "name": "andre-fcv/string",
+    "minimum-stability": "dev",
     "type": "library",
     "version": "1.0.0",
     "require": {},
