@@ -1,0 +1,11 @@
+{
+    "name": "andre-fcv/string",
+    "version": "1.0.0",
+    "type": "project",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "StringUtil\\": "src/"
+        }
+    }
+}
